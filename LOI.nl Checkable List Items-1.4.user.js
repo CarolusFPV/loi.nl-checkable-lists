@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         LOI.nl Checkable List Items
+// @author       CarolusFPV
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  Turns list dots into clickable checkboxes that strike out the line when clicked for loi.nl
